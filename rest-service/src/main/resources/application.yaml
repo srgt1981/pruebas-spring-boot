@@ -1,0 +1,3 @@
+logging:
+  file: boot_rest_service.log
+  org.hibernate: INFO

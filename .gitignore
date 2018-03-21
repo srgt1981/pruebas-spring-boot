@@ -1,0 +1,6 @@
+# exclude every .classpath, .project, .settings and target files
+*/.classpath
+*/.project
+*/.settings
+*/.springBeans
+*/target/*
